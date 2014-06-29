@@ -1,6 +1,8 @@
 lb-arduino-simon
 ================
 
+![Game of Simon clone](https://raw.github.com/prizepony/lb-arduino-simon/master/img/large_simon_main.jpg)
+
 http://littlebits.cc/projects/simon-clone
 
 Combining the Arduino module and a few basic littleBits modules, I made a simple clone of the classic 1980s electronic game of Simon.
